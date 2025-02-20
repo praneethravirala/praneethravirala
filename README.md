@@ -1,74 +1,54 @@
-# Hello, I'm Praneeth Ravirala
+# 👋 Hello, I'm Praneeth Ravirala!  
 
-<a href="https://www.linkedin.com/in/praneeth-ravirala-521714178">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+📍 **Data Analytics | Data Engineering | Machine Learning | NLP | Deep Learning**  
 
-<a href="https://github.com/praneethravirala">
-    <img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I am a **Master’s student in Data Analytics Engineering at George Mason University**, passionate about **data science, machine learning, and natural language processing (NLP)**. My expertise lies in applying advanced analytics and AI-driven techniques to extract valuable insights and solve real-world problems.  
 
-I am a **Master's student in Data Analytics Engineering at George Mason University** with a strong focus on **data science, machine learning, NLP, and business intelligence**. My expertise includes **data visualization, predictive analytics, statistical modeling, natural language processing, and cloud computing**.
+## 🔹 Technical Expertise  
+- **Programming:** Python, R, SQL, C, C++, Java  
+- **Data Analysis & Visualization:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot  
+- **Machine Learning & NLP:** PyTorch, TensorFlow, Keras, NLTK, Sklearn  
+- **Big Data & Cloud:** Spark  
+- **Tools & Platforms:** Tableau, Jupyter Notebook, Google Colab, RStudio, MySQL Workbench, DevC++, Eclipse  
 
----
+## 🔹 Recent Projects  
 
-## 🎯 Objective
-I am passionate about **data-driven decision-making, machine learning, and NLP applications** to solve real-world problems. My goal is to **leverage deep learning and NLP techniques** to extract insights from textual data, enhance information retrieval, and develop intelligent automation solutions.
+### 🤖 [Code Generation Using LLM](https://github.com/praneethravirala/Code-Generation-Using-LLM.git)  
+🚀 Integrated **hierarchical decomposition into a pre-trained T5 Transformer** to improve SQL generation.  
+📌 Achieved **performance gains** with **Fuzz Ratio (91%)**, **ROUGE (92%)**, and **BLEU (71%)**.  
 
----
+### 📝 [Sentiment Analysis of Flipkart Reviews](https://github.com/praneethravirala/Sentiment-Analysis-of-Flipkart-Reviews-Data.git)  
+📊 Compared **BERT (91.66% accuracy)** and **Naive Bayes (85.46% accuracy)** for sentiment classification.  
+📌 Demonstrated **BERT's superior recall (71.41%)**, achieving a higher **F1-score (73.84%)**.  
 
-## 🔥 Skills & Associated Projects
+### 🐱🐶 [Image Classification using CNN](https://github.com/praneethravirala/Cats-vs-Dogs-Classification-using-CNN-Python-Keras.git)  
+📌 Developed a **CNN model** with **80% accuracy** for **classifying cats and dogs** using **Python & Keras**.  
+🚀 Implemented **dropout regularization & hyperparameter tuning** to enhance performance.  
 
-| **Skill**                                      | **Associated Project** |
-|------------------------------------------------|------------------------|
-| **Natural Language Processing (NLP)**          | [Sentiment Analysis of Flipkart Reviews](https://github.com/praneethravirala/Sentiment-Analysis-of-Flipkart-Reviews-Data), [SQL Query Generation using LLM](https://github.com/praneethravirala/Code-Generation-LLM) |
-| **Machine Learning & Deep Learning**           | [Cats vs Dogs Classification (CNN)](https://github.com/praneethravirala/Cats-vs-Dogs-Classification-using-CNN-Python-Keras), [Sentiment Analysis of Flipkart Reviews](https://github.com/praneethravirala/Sentiment-Analysis-of-Flipkart-Reviews-Data), [SQL Query Generation using LLM](https://github.com/praneethravirala/Code-Generation-LLM) |
-| **Data Analytics & Statistical Modeling**      | [Montgomery County Crash Analysis](https://github.com/praneethravirala/Montgomery-Crash-Analysis), [Los Angeles Crime Data Analysis](https://github.com/praneethravirala/LA-Crime-Data-Analysis) |
-| **Data Visualization (Tableau, R ggplot2, Power BI)** | [Montgomery County Crash Analysis](https://github.com/praneethravirala/Montgomery-Crash-Analysis), [Los Angeles Crime Data Analysis](https://github.com/praneethravirala/LA-Crime-Data-Analysis) |
-| **Big Data Technologies (Spark, Databricks)**  | [Montgomery County Crash Analysis](https://github.com/praneethravirala/Montgomery-Crash-Analysis), [Los Angeles Crime Data Analysis](https://github.com/praneethravirala/LA-Crime-Data-Analysis) |
-| **SQL & NoSQL Databases**                      | [Montgomery County Crash Analysis](https://github.com/praneethravirala/Montgomery-Crash-Analysis), [Los Angeles Crime Data Analysis](https://github.com/praneethravirala/LA-Crime-Data-Analysis) |
-| **Python (Pandas, NumPy, Scikit-Learn)**       | Used in all projects |
+### 📊 [Analysis of Los Angeles Crime Data](https://github.com/praneethravirala/Analysis-of-Los-Angeles-Crime-Data.git)  
+📌 Conducted **K-Means clustering** on crime datasets to identify **high-risk zones** in LA.  
+🚀 Found **crime hotspots** concentrated in **Southern LA**, with **peak crime times between 4 PM - 6 PM**.  
 
----
+### 🚗 [Analysis of Montgomery County Crash Data](https://github.com/praneethravirala/Analysis-of-Montgomery-County-Crash-Reporting-Drivers-Data..git)  
+📌 Analyzed crash factors including **light conditions, speed limits, and weather**.  
+🚀 Provided **data-driven recommendations** to reduce future crashes and fatalities.  
 
-## 🛠️ Tools & Technologies
+## 🔹 Certifications  
+- **Oracle Academy - Database Management System**  
+- **Coursera - Python Programming & Data Structures**  
+- **Internshala - Machine Learning**  
 
-### **Natural Language Processing (NLP)**
-<div>
-    <img src="https://img.shields.io/badge/-spaCy-09A3D5?&style=for-the-badge&logo=spacy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NLTK-4C4C4C?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Transformers-EE4C2C?&style=for-the-badge&logo=HuggingFace&logoColor=white" />
-</div>
+## 🔹 Publications  
+📄 **A Featurized Learning Approach for Health Monitoring in Hydraulic Systems Using Multivariate Time Series Data**  
+📌 Published in **Springer - Smart Innovation Systems and Technologies (SIST) Series** ([Publication Link](https://link.springer.com/chapter/10.1007/978-981-16-9705-0_7))  
 
-### **Data Science & Machine Learning**
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
+## 🔹 What I’m Working On  
+- Advancing **deep learning models** for AI applications.  
+- Exploring **NLP and LLMs** for text processing.  
+- Implementing **data-driven insights for real-world impact**.  
 
-### **Data Engineering & Databases**
-<div>
-    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?&style=for-the-badge&logo=apachespark&logoColor=white" />
-</div>
+## 💻 Let’s Connect!  
+📩 [LinkedIn](https://www.linkedin.com/in/praneeth-ravirala-521714178)  
+📂 [GitHub](https://github.com/praneethravirala)  
 
----
-
-## 📊 Research & Interests in NLP
-- **Named Entity Recognition (NER)** for **sensitive information detection**.
-- **Text Summarization & Topic Modeling** for **large document processing**.
-- **TF-IDF & Word2Vec** for **document classification**.
-- **Temporal Analysis in Fake News Detection** for improved credibility scoring.
-
---
-
-## 📊 Let's Connect!
-I'm always open to discussions on **NLP, machine learning, cloud computing, and analytics**. Feel free to reach out to me on:
-
-📧 Email: **praneethravirala@example.com**  
-🔗 LinkedIn: [**Praneeth Ravirala**](https://www.linkedin.com/in/praneeth-ravirala-521714178)  
-🐙 GitHub: [**praneethravirala**](https://github.com/praneethravirala)  
-
-🚀 **Let's build something amazing together!**
+🚀 Open to collaborations in **Machine Learning, NLP, and AI-driven solutions!**  
